@@ -9,7 +9,7 @@
 - **ArgoCD:** Implement GitOps for continuous deployment and management of the application.
 
 ## Current Tasks
-- [x] Select a Password Manager
+- [x] ~~Select a Password Manager~~
 - [ ] Provision Infrastructure (Terraform)
 - [ ] Kubernetes Deployment
 - [ ] Implement GitOps with ArgoCD
