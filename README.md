@@ -8,6 +8,15 @@
 - **Kubernetes:** Deploy the password manager as a service within the cluster.
 - **ArgoCD:** Implement GitOps for continuous deployment and management of the application.
 
+## Current Tasks
+- [ ✅ ] Select a Password Manager
+- [ ] Provision Infrastructure (Terraform)
+- [ ] Kubernetes Deployment
+- [ ] Implement GitOps with ArgoCD
+- [ ] Secure the Deployment
+- [ ] Monitoring and Logging
+- [ ] Document the Project
+
 ## Step-by-Step Plan
 
 ### 1. Select a Password Manager
