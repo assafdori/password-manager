@@ -11,7 +11,7 @@
 ## Current Tasks
 - [x] ~~Select a Password Manager~~
 - [ ] Provision Infrastructure (Terraform)
-- [ ] Kubernetes Deployment
+- [ ] Kubernetes Deployment (app is stateless, database is stateful)
 - [ ] Implement GitOps with ArgoCD
 - [ ] Secure the Deployment
 - [ ] Monitoring and Logging
