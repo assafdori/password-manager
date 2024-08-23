@@ -20,7 +20,7 @@
 ## Step-by-Step Plan
 
 ### 1. Select a Password Manager
-- Choose an open-source password manager that supports containerization, like Bitwarden or Vaultwarden (a lightweight Bitwarden fork).
+- I chose Vaultwarden, mainly because of its simplicity and being open-source. 
 
 ### 2. Containerize the Application (Docker)
 - If not already available, create a Dockerfile for the password manager application.
